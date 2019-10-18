@@ -1,6 +1,6 @@
 # devops-practice
 
-As part of the DevOps recruting process, it is require to present practical knowledge. Please read carefully the instruction of you pratical test.
+As part of the DevOps recruting process, it is require to present practical knowledge. Please read carefully the instruction of your pratical test.
 
 
 # Exercise
@@ -19,7 +19,7 @@ We will accept any of the following types of solution:
 
 - A pipeline implemented on a Continuous Integration Tools that deploy the chosen project on the AWS cloud.
 
-**IMPORTANT** Your solution must contain step-by-step instructions on how to deploy the chosen project usingo _your solution_. On your forked repository create a new markdown file `.md` with the instructions, feel free to add a short paragraph and/or a diagram to better explain your solution.
+**IMPORTANT** Your solution must contain step-by-step instructions on how to deploy the chosen project using _your solution_. On your forked repository create a new markdown file named `INSTRUCTIONS.md` with the instructions, feel free to add a short paragraph and/or a diagram to better explain your solution.
 
 # Expectations
 
