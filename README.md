@@ -26,7 +26,7 @@ We will accept any of the following types of solution:
 When reviewing this exercise, we will take the following points into consideration:
 
 1. Whether the solution works or not (this is eliminatory) 
-2. Secrets, passwords must not be pushed to remote
+2. Secrets must not be pushed to remote
 3. How easy it is to deploy the solution
 4. How resilient it is (e.g. what happens if the deployment fails or will code with errors be deployed?)
 
